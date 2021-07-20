@@ -3,7 +3,7 @@ import CollectionsIcon from '@material-ui/icons/Collections';
 
 const useStyles = makeStyles({
     component: {
-        background: '#445A6F'
+        background: '#9acd32'
     }
 })
 
